@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+dataset/
+vosk-model-small-en-us-0.15/
+.env
+venv/
+.vscode/
+.idea/
+temp_audio.raw
+test.wav
